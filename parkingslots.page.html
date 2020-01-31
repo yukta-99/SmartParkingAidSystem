@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/carpark"></ion-back-button>
+    </ion-buttons>
+    <ion-buttons slot="end">
+      <ion-button (click)="get_info()"><ion-icon name="refresh"></ion-icon></ion-button>
+    </ion-buttons>
+    <ion-title>Car park 1</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-grid>
+    <ion-row>
+      <ion-col size-sm="6" offset-sm="3">
+        <p>Slot 1: {{ lam[0] }}</p>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col size-sm="6" offset-sm="3">
+        <p>Slot 2: {{ lam[1] }}</p>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col size-sm="6" offset-sm="3">
+        <p>Slot 3: {{ lam[2] }}</p>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

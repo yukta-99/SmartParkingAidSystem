@@ -1,4 +1,7 @@
 # SmartParkingAidSystem
+Collaborators: [Rutwik Patel](https://github.com/rutwik-99)
+
+
 Problem Statement: How might we reduce traffic congestion caused by lack of information of parking spaces, using a device identifying vacant spaces and broadcasting information through a mobile application for drivers . Description: Traffic management is a very crucial area for quality of life in modern and sustainable cities. Travelling in private vehicles is inevitable in some circumstances, which also demands smart parking slots with real time information system for availability of parking.  In most of the metropolitan cities today, traffic management, availability of parking slots and information regarding the same is missing. This situation is creating traffic snags on a daily basis, wastage of fuel and time, increased air pollution, and frustration for drivers. Drivers waste a lot of time and fuel while looking for vacant parking spaces, causing them considerable frustration. As there is no system informing drivers of vacant parking spaces around them, drivers have to manually look around for parking spaces on the street. Even when using a car park, drivers have to manually check every level to find a parking slot or use the help of car park assistants. Unavailability of sufficient parking slots, lack of information about them and no system to find illegally parked vehicles, leads to rampant illegal parking. Also, the traffic flow gets hampered due to illegally parked vehicles.
 
 
